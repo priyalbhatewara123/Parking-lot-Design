@@ -56,3 +56,12 @@ Car with vehicle registration number "HR-29-TG-3098" has been parked at slot num
 
 ## 📌 How to run the code on Repit ⁉
 1. Go to this [link](https://replit.com/join/wkyuzitoop-priyalbhatewara)
+2. Click on Run button at the top of the page.
+3. Type  ***./a.out***  on Console and hit enter.
+4. You'll see the ouput on the console.
+5. To give different input, type the commands in input.txt
+
+
+
+
+### Happy Coding!❤
