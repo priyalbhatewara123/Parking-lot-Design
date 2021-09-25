@@ -49,3 +49,7 @@ Slot number 2 vacated, the car with vehicle registration number "PB-01-HH-1234" 
 
 Car with vehicle registration number "HR-29-TG-3098" has been parked at slot number 2
 
+## 📌 Code files Structure
+* main.cpp file is from where we read input and prints the output to console after executing each command.
+* ParkingLot.h file acts as a header file where the classes are defined for further usage.
+* ParkingLot.cpp is the cpp file where the entire logic for all the methods is given and explained .
