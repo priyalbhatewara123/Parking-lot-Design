@@ -53,3 +53,6 @@ Car with vehicle registration number "HR-29-TG-3098" has been parked at slot num
 * main.cpp file is from where we read input and prints the output to console after executing each command.
 * ParkingLot.h file acts as a header file where the classes are defined for further usage.
 * ParkingLot.cpp is the cpp file where the entire logic for all the methods is given and explained .
+
+## 📌 How to run the code on Repit ⁉
+1. Go to this [link](https://replit.com/join/wkyuzitoop-priyalbhatewara)
