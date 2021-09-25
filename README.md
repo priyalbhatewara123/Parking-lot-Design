@@ -14,40 +14,29 @@ Due to government regulation, the system should provide us with the ability to f
 We get the input by reading input.txt directly (you’ll have to create it in your environment) .The file will contain a set of commands separated by a newline, we need to execute the commands in order and produce output.
 
 ## 📌 Sample Input
+```
 Create_parking_lot 6
-
 Park KA-01-HH-1234 driver_age 21
-
 Park PB-01-HH-1234 driver_age 21
-
 Slot_numbers_for_driver_of_age 21
-
 Park PB-01-TG-2341 driver_age 40
-
 Slot_number_for_car_with_number PB-01-HH-1234
-
 Leave 2
-
 Park HR-29-TG-3098 driver_age 39
-
 Vehicle_registration_number_for_driver_of_age 18
+```
 
 ## 📌 Sample Output
+```
 Created parking of 6 slots
-
 Car with vehicle registration number "KA-01-HH-1234" has been parked at slot number 1
-
 Car with vehicle registration number "PB-01-HH-1234" has been parked at slot number 2
-
 1,2
-
 Car with vehicle registration number "PB-01-TG-2341" has been parked at slot number 3
-
 2
-
 Slot number 2 vacated, the car with vehicle registration number "PB-01-HH-1234" left the space, the driver of the car was of age 21
-
 Car with vehicle registration number "HR-29-TG-3098" has been parked at slot number 2
+```
 
 ## 📌 Code files Structure
 * main.cpp file is from where we read input and prints the output to console after executing each command.
