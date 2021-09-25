@@ -55,7 +55,7 @@ Car with vehicle registration number "HR-29-TG-3098" has been parked at slot num
 * ParkingLot.cpp is the cpp file where the entire logic for all the methods is given and explained .
 
 ## 📌 How to run the code on Repit ⁉
-1. Go to this [link](https://replit.com/join/wkyuzitoop-priyalbhatewara)
+1. Go to this [link1](https://replit.com/join/wkyuzitoop-priyalbhatewara) [link2](https://replit.com/@PriyalBhatewara/Parking-lot-Design#main.cpp)
 2. Click on Run button at the top of the page.
 3. Type  ***./a.out***  on Console and hit enter.
 4. You'll see the ouput on the console.
